@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	int grade[5];
-		int i;
+	int i;
 	
 	grade[0] = 10;
 	grade[1] = 20;
